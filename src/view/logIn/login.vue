@@ -11,13 +11,6 @@
           />
         </h2>
         <div class="login-form">
-          <!-- <div class="login-sweep">
-            <img
-              class="qr-img"
-              src="@/assets/home/data/data01/ebd338f0b7611335b57834c282c51813.png"
-              style="width: 80px; height: 80px"
-            />
-          </div> -->
           <div class="login-title">
             <img
               src="@/assets/home/data/data01/4ca6bff0fc6b53dfe9146f23b55d332b.png"
